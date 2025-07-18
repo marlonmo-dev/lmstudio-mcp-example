@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "Math": {
+      "command": "python",
+      "args": [
+        "C:/Users/.../server_math.py"
+      ]
+    }
+  }
+}
